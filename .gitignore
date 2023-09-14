@@ -1,0 +1,5 @@
+practice_app/node_modules
+discord/node_modules
+discord/key.json
+discord/config.json
+practice_app/firebase.js
